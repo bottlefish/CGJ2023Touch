@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Sapce.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Start.unity
+    guid: a66b4f33765d39142965e3d0d1a64fd0
+  - enabled: 1
+    path: Assets/Scenes/Space.unity
+    guid: ea6af063395b0ed4491c947af0ff0064
+  - enabled: 1
+    path: Assets/newforest.unity
+    guid: 2d34a060c6440fa4dbf350c77748fea5
+  - enabled: 1
+    path: Assets/Success.unity
+    guid: c114a3468a70c7c4189ad0a8bac1f6e8
+  - enabled: 1
+    path: Assets/Failed.unity
+    guid: 8c1a6a4189b267447868c751ac2d6281
+  m_configObjects: {}
